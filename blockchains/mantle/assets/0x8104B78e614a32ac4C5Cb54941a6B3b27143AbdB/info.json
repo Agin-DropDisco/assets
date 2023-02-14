@@ -1,10 +1,10 @@
 {
-    "name": "ZoNulet Gem",
+    "name": "ZonuGem",
     "website": "https://zonulet.io/",
     "description": "ZoNulet",
     "explorer": "https://explorer.testnet.mantle.xyz/address/0x8104B78e614a32ac4C5Cb54941a6B3b27143AbdB",
     "type": "ERC20",
-    "symbol": "ZoNuGem",
+    "symbol": "ZGEM",
     "decimals": 18,
     "status": "active",
     "links": [
