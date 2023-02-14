@@ -1,0 +1,16 @@
+{
+    "name": "DexSwapZonu",
+    "website": "https://zonulet.io/",
+    "description": "ZoNulet",
+    "explorer": "https://explorer.testnet.mantle.xyz/address/0xCab6D79dD732779f081B5868AAb1e64F357e90A9",
+    "type": "ERC20",
+    "symbol": "DEZU",
+    "decimals": 18,
+    "status": "active",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/Agin-DropDisco/assets"
+        }
+    ]
+}
