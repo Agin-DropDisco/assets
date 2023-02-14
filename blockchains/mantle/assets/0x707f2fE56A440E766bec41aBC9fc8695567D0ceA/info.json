@@ -1,0 +1,16 @@
+{
+    "name": "BIT",
+    "website": "https://zonulet.io/",
+    "description": "ZoNulet",
+    "explorer": "https://explorer.testnet.mantle.xyz/address/0x707f2fE56A440E766bec41aBC9fc8695567D0ceA",
+    "type": "ERC20",
+    "symbol": "BIT",
+    "decimals": 18,
+    "status": "active",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/Agin-DropDisco/assets"
+        }
+    ]
+}
