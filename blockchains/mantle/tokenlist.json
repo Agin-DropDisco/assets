@@ -16,12 +16,36 @@
     ],
     "tokens": [
         {
-            "address": "0xAc12F7948eFdfA205Df7daD3D1Ee04E564009ECB",
+            "address": "0x707f2fE56A440E766bec41aBC9fc8695567D0ceA",
+            "chainId": 5001,
+            "name": "Wrapped Ether on Mantle",
+            "symbol": "WETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/dexswapcore/main/mantle_logo.jpg"
+        },
+        {
+            "address": "0xCab6D79dD732779f081B5868AAb1e64F357e90A9",
             "chainId": 5001,
             "name": "DexSwapZonu",
             "symbol": "DEZU",
-            "decimals": 18,
+            "decimals": 8,
             "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/dexswapcore/main/DEZU.png"
+        },
+        {
+            "address": "0x9C3a2429A288dBEA75C819Fd18C0b35a0C3E1361",
+            "chainId": 5001,
+            "name": "ZoNulet",
+            "symbol": "ZONU",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/dexswapcore/main/Zonulet.png"
+        },
+        {
+            "address": "0x8104B78e614a32ac4C5Cb54941a6B3b27143AbdB",
+            "chainId": 5001,
+            "name": "ZoNulet Gem",
+            "symbol": "ZoNuGem",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/zonulet-io/Zonulet-Assets/main/ZonuGem.png"
         },
         {
             "address": "0x777638AB212Fab2F1D1202DedCC7f18D2c527b50",
@@ -56,13 +80,76 @@
             "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/icons/master/token/bnb.jpg"
         },
         {
-            "address": "0x565F39F6B8367a67317349c97dd78B8e4224db5C",
-            "chainId": 5001,
+            "address": "0x216eD590Cb7Ec3417CAb82699ae493522fECf580",
+            "chainId": 80001,
             "name": "ZoNulet",
             "symbol": "ZONU",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/dexswapcore/main/Zonulet.png"
+        },
+        {
+            "address": "0xBb77Dfd50Cc81EBf1669fE057943E26783EaE035",
+            "chainId": 80001,
+            "name": "ZoNulet Gem",
+            "symbol": "ZoNuGem",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/zonulet-io/Zonulet-Assets/main/ZonuGem.png"
+        },
+        {
+            "address": "0xB054102dF5c8B66d8b7f58344964F86E9e2d3E00",
+            "chainId": 80001,
+            "name": "DexSwapZonu",
+            "symbol": "DEZU",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/dexswapcore/main/DEZU.png"
+        },
+        {
+            "address": "0x5f9059D8B29BbAfe92F98AFD769169aaf4443333",
+            "chainId": 80001,
+            "name": "Wrapped BTC",
+            "symbol": "WBTC",
+            "decimals": 8,
+            "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/icons/master/token/btc.jpg"
+        },
+        {
+            "address": "0xD56ffA679f3de6007FD0e96Ab57a42224e2DD152",
+            "chainId": 80001,
+            "name": "USDC",
+            "symbol": "USDC",
+            "decimals": 8,
+            "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/icons/master/token/usdc.jpg"
+        },
+        {
+            "address": "0x800F85756B007be98f906e23F1665af89CBA92Fa",
+            "chainId": 80001,
+            "name": "Tether USD",
+            "symbol": "USDT",
+            "decimals": 8,
+            "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/icons/master/token/usdt.jpg"
+        },
+        {
+            "address": "0xb61eb02201596A9EC02341270bCa314c1d21cAdC",
+            "chainId": 80001,
+            "name": "Wrapped BNB",
+            "symbol": "WBNB",
+            "decimals": 8,
+            "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/icons/master/token/bnb.jpg"
+        },
+        {
+            "address": "0xA6FA4fB5f76172d178d61B04b0ecd319C5d1C0aa",
+            "chainId": 80001,
+            "name": "Wrapped Ether on Matic",
+            "symbol": "WETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/dexswapcore/main/matic-token.png"
+        },
+        {
+            "address": "0x9c3c9283d3e44854697cd22d3faa240cfb032889",
+            "chainId": 80001,
+            "name": "Wrapped Matic",
+            "symbol": "WMATIC",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/dexswapcore/main/matic-token.png"
         }
-        
     ]
   }
