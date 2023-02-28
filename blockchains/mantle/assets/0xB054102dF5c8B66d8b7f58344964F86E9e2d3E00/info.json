@@ -1,0 +1,16 @@
+{
+    "name": "DexSwapZonu",
+    "website": "https://zonulet.io/",
+    "description": "ZoNulet",
+    "explorer": "https://mumbai.polygonscan.com/address/0xB054102dF5c8B66d8b7f58344964F86E9e2d3E00",
+    "type": "ERC20",
+    "symbol": "DEZU",
+    "decimals": 18,
+    "status": "active",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/Agin-DropDisco/assets"
+        }
+    ]
+}
