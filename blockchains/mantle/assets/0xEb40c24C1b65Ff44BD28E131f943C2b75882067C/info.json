@@ -1,0 +1,16 @@
+{
+    "name": "Wrapped BTC",
+    "website": "https://filecoin.zonulet.io/",
+    "description": "ZoNulet",
+    "explorer": "https://hyperspace.filfox.info/en/address/0xEb40c24C1b65Ff44BD28E131f943C2b75882067C",
+    "type": "ERC20",
+    "symbol": "WBTC",
+    "decimals": 18,
+    "status": "active",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/Agin-DropDisco/assets"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "name": "USDC",
+    "website": "https://zonulet.io/",
+    "description": "ZoNulet",
+    "explorer": "https://hyperspace.filfox.info/en/address/0x9775Dc2e8513BaEbD24e323dbde04A8D5822Ef82",
+    "type": "ERC20",
+    "symbol": "USDC",
+    "decimals": 18,
+    "status": "active",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/Agin-DropDisco/assets"
+        }
+    ]
+}

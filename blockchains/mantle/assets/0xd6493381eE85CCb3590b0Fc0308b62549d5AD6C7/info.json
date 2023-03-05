@@ -1,0 +1,16 @@
+{
+    "name": "DexSwapZonu",
+    "website": "https://filecoin.zonulet.io/",
+    "description": "ZoNulet",
+    "explorer": "https://hyperspace.filfox.info/en/address/0xd6493381eE85CCb3590b0Fc0308b62549d5AD6C7",
+    "type": "ERC20",
+    "symbol": "DEZU",
+    "decimals": 18,
+    "status": "active",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/Agin-DropDisco/assets"
+        }
+    ]
+}

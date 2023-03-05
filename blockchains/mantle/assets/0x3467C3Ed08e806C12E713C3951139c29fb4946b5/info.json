@@ -1,0 +1,16 @@
+{
+    "name": "Wrapped Ether",
+    "website": "https://filecoin.zonulet.io/",
+    "description": "ZoNulet",
+    "explorer": "https://hyperspace.filfox.info/en/address/0x3467C3Ed08e806C12E713C3951139c29fb4946b5",
+    "type": "ERC20",
+    "symbol": "WETH",
+    "decimals": 18,
+    "status": "active",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/Agin-DropDisco/assets"
+        }
+    ]
+}
