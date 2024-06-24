@@ -1,0 +1,16 @@
+{
+    "name": "ZoNulet",
+    "website": "https://zonulet.io/",
+    "description": "ZoNulet",
+    "explorer": "https://explorer.testnet.mantle.xyz/address/0x565F39F6B8367a67317349c97dd78B8e4224db5C",
+    "type": "ERC20",
+    "symbol": "ZONU",
+    "decimals": 18,
+    "status": "active",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/Agin-DropDisco/assets"
+        }
+    ]
+}

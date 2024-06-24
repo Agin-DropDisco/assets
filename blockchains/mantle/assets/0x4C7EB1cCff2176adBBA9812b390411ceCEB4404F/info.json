@@ -1,0 +1,16 @@
+{
+    "name": "USDT",
+    "website": "https://zonulet.io/",
+    "description": "ZoNulet",
+    "explorer": "https://hyperspace.filfox.info/en/address/0x4C7EB1cCff2176adBBA9812b390411ceCEB4404F",
+    "type": "ERC20",
+    "symbol": "USDT",
+    "decimals": 18,
+    "status": "active",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/Agin-DropDisco/assets"
+        }
+    ]
+}

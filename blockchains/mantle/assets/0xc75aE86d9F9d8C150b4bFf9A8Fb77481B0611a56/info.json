@@ -1,0 +1,16 @@
+{
+    "name": "Tether USD",
+    "website": "https://zonulet.io/",
+    "description": "ZoNulet",
+    "explorer": "https://explorer.testnet.mantle.xyz/address/0xc75aE86d9F9d8C150b4bFf9A8Fb77481B0611a56",
+    "type": "ERC20",
+    "symbol": "USDT",
+    "decimals": 18,
+    "status": "active",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/Agin-DropDisco/assets"
+        }
+    ]
+}

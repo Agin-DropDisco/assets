@@ -1,0 +1,16 @@
+{
+    "name": "MFIL",
+    "website": "https://zonulet.io/",
+    "description": "ZoNulet",
+    "explorer": "https://hyperspace.filfox.info/en/address/0x59624ed081A90fBCec43D434Ec953B8E17D5ac3C",
+    "type": "ERC20",
+    "symbol": "MFIL",
+    "decimals": 18,
+    "status": "active",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/Agin-DropDisco/assets"
+        }
+    ]
+}

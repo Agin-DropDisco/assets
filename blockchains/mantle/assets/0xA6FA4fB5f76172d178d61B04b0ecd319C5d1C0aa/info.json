@@ -1,0 +1,16 @@
+{
+    "name": "Wrapped Ether on Matic",
+    "website": "https://zonulet.io/",
+    "description": "ZoNulet",
+    "explorer": "https://mumbai.polygonscan.com/address/0xA6FA4fB5f76172d178d61B04b0ecd319C5d1C0aa",
+    "type": "ERC20",
+    "symbol": "WETH",
+    "decimals": 18,
+    "status": "active",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/Agin-DropDisco/assets"
+        }
+    ]
+}

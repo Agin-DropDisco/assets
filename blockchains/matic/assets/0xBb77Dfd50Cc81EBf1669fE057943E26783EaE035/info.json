@@ -1,0 +1,16 @@
+{
+    "name": "ZonuGem",
+    "website": "https://zonulet.io/",
+    "description": "ZoNulet",
+    "explorer": "https://mumbai.polygonscan.com/address/0xBb77Dfd50Cc81EBf1669fE057943E26783EaE035",
+    "type": "ERC20",
+    "symbol": "ZGEM",
+    "decimals": 18,
+    "status": "active",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/Agin-DropDisco/assets"
+        }
+    ]
+}

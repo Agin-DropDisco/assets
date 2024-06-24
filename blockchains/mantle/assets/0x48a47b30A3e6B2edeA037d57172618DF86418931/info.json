@@ -1,0 +1,16 @@
+{
+    "name": "ZoNulet",
+    "website": "https://zonulet.io/",
+    "description": "ZoNulet",
+    "explorer": "https://hyperspace.filfox.info/en/address/0x48a47b30A3e6B2edeA037d57172618DF86418931",
+    "type": "ERC20",
+    "symbol": "ZoNu",
+    "decimals": 18,
+    "status": "active",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/Agin-DropDisco/assets"
+        }
+    ]
+}

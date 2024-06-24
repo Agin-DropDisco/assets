@@ -1,0 +1,16 @@
+{
+    "name": "Wrapped Matic",
+    "website": "https://zonulet.io/",
+    "description": "ZoNulet",
+    "explorer": "https://mumbai.polygonscan.com/address/0x9c3c9283d3e44854697cd22d3faa240cfb032889",
+    "type": "ERC20",
+    "symbol": "WMATIC",
+    "decimals": 18,
+    "status": "active",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/Agin-DropDisco/assets"
+        }
+    ]
+}

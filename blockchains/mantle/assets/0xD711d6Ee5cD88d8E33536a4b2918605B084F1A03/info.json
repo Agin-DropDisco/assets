@@ -1,0 +1,16 @@
+{
+    "name": "Wrapped BNB",
+    "website": "https://zonulet.io/",
+    "description": "ZoNulet",
+    "explorer": "https://explorer.testnet.mantle.xyz/address/0xD711d6Ee5cD88d8E33536a4b2918605B084F1A03",
+    "type": "ERC20",
+    "symbol": "WBNB",
+    "decimals": 18,
+    "status": "active",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/Agin-DropDisco/assets"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "name": "WBTC",
+    "website": "https://zonulet.io/",
+    "description": "ZoNulet",
+    "explorer": "https://mumbai.polygonscan.com/address/0x5f9059D8B29BbAfe92F98AFD769169aaf4443333",
+    "type": "ERC20",
+    "symbol": "WBTC",
+    "decimals": 18,
+    "status": "active",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/Agin-DropDisco/assets"
+        }
+    ]
+}
